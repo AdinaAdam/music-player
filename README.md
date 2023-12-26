@@ -6,8 +6,6 @@ RESOURCES:
 music:
 https://www.free-stock-music.com/search.php?cat=&mood=39&license=&bpm=&length=2min&keyword=
 
-picture:
-https://www.canva.com/
 
 Music files/ copyright Attribution
 1.
