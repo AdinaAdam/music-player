@@ -1,3 +1,22 @@
+Features </br>
+* Play/Pause Functionality
+* Song Navigation
+* Dynamic Progress Bar
+
+
+
+Code Explanation </br>
+
+* Music Controls: `play`, `prev`, and `next` buttons are used to control the playback
+* Song and Progress Information: `title`, `cover`, `progress`, and `progressContainer` elements display the song information and progress
+
+JavaScript Functionality </br>
+* `loadSong()` --> Loads the selected song's details (title, audio source, cover image)
+* `playSong()` --> Handles the play functionality
+* `pauseSong()` --> Handles the pause functionality
+* `prevSong()`, `nextSong()` --> Functions to navigate between songs
+* `updateProgress()`, `setProgress()` --> Functions to update and control the progress bar
+
 SOURCES: </br>
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API
