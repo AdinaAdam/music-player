@@ -1,16 +1,16 @@
-Features </br>
+### Features </br>
 * Play/Pause Functionality
 * Song Navigation
 * Dynamic Progress Bar
 
 
 
-Code Explanation </br>
+### Code Explanation </br>
 
 * Music Controls: `play`, `prev`, and `next` buttons are used to control the playback
 * Song and Progress Information: `title`, `cover`, `progress`, and `progressContainer` elements display the song information and progress
 
-JavaScript Functionality </br>
+### JavaScript Functionality </br>
 * `loadSong()` --> Loads the selected song's details (title, audio source, cover image)
 * `playSong()` --> Handles the play functionality
 * `pauseSong()` --> Handles the pause functionality
